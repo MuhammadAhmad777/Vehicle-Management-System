@@ -1,0 +1,13 @@
+Vehicle Information
+---------------------
+Number of Bikes : 2
+Number of Cars : 2
+Number of Trucks : 2
+CompanyName				Type			Color	Power
+----------------------------------------------------------------------
+Suzuki                  Bike            Red     150
+Road Prince             Bike            Black   70
+Suzuki                  Car             White   800
+Honda                   Car             Black   1349
+Toyota                  Truck           Red     2799
+Isuzu                   Truck           Black   2499

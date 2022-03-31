@@ -1,0 +1,2 @@
+Company     Color       Wheels   Power    Type       Doors     Trasmission    Seats
+Toyota      Black       4        150        Car         4      Automatic      5

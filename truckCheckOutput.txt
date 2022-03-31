@@ -1,0 +1,2 @@
+Company      Color       Wheels   Power    Type      containerSize     Category       FourWheelDrive
+XyzCompany   White       6        1100    Truck       450           single-cabin    True

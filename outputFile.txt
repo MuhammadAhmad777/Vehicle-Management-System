@@ -1,0 +1,12 @@
+Vehicle Information
+---------------------
+Number of Bikes : 2
+Number of Cars : 1
+Number of Trucks : 2
+CompanyName				Type			Color	Power
+----------------------------------------------------------------------
+Suzuki                  Bike            Red     230
+toyota                  Car             black   1100
+Yamaha                  Bike            Red     70
+Local                   Truck           brown   2300
+local2                  Truck           Black   2350

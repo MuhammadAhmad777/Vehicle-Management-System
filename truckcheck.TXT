@@ -1,0 +1,7 @@
+XyzCompany
+White
+6
+1100
+450
+single-cabin
+true

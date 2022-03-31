@@ -1,0 +1,2 @@
+Company     Color       Wheels    Power    Type     Height    SelfStart   DiscBrake
+Suzuki      Black       2         70       Bike      34.4       No          Yes
